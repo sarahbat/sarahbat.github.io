@@ -1,0 +1,30 @@
+/*Portfolio pages*/
+.views-row{
+    border-top: 1px solid #ddd;
+    margin: 12px 0;
+    padding-top: 12px;
+}
+
+.title, .authors, .description {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: Arial,'Helvetica Neue',Helvetica,sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.title {
+    font-size: 16px;
+    font-size: 1.14286rem;
+    line-height: 1;
+    font-weight: bold;
+}
+
+.description {
+  font-style: italic;
+  font-weight: normal;
+  line-height: 1;
+}
