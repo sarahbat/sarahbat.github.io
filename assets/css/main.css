@@ -2449,6 +2449,7 @@ input, select, textarea {
     border-top: 1px solid #ddd;
     margin: 12px 0;
     padding-top: 12px;
+    padding-left: 12px;
 }
 
 .title, .authors, .description {
